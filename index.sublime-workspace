@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stri",
+				"string"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"rout",
+				"Route"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"view",
+				"View"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"btn",
+				"btn-danger \tBootstrap 3 Class"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"produ",
+				"Product"
+			],
+			[
+				"p",
+				"prods"
+			],
+			[
+				"rou",
+				"Route"
+			],
+			[
+				"bs3",
+				"bs3-table\tbs3-table"
+			],
+			[
+				"bs3-",
+				"bs3-form\tbs3-form"
+			],
+			[
+				"sp",
+				"script\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"php artisan key:generate",
+			"php artisan key:generate\"",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/xampp/htdocs/www/laravel-master/database/migrations/2017_03_19_071036_create_dondathang_table.php",
+		"/E/xampp/htdocs/www/laravel-master/database/migrations/2017_03_19_071109_create_khachhang_table.php",
+		"/E/xampp/htdocs/www/laravel-master/routes/web.php",
+		"/E/xampp/htdocs/www/laravel-master/database/migrations/2017_03_19_070852_create_chitietdondathang_table.php",
+		"/E/xampp/htdocs/www/laravel-master/database/migrations/2017_03_19_070535_create_sanpham_table.php",
+		"/E/xampp/htdocs/www/laravel-master/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/E/xampp/htdocs/www/laravel-master/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/E/xampp/htdocs/www/laravel-master/database/migrations/2017_03_19_070734_create_nhasanxuat_table.php",
+		"/E/xampp/htdocs/www/laravel-master/database/migrations/2017_03_19_070645_create_loaisanpham_table.php",
+		"/E/xampp/htdocs/www/laravel-master/resources/views/Views/master.blade.php",
+		"/E/xampp/htdocs/www/laravel-master/.env",
+		"/E/xampp/htdocs/www/laravel-master/resources/views/layout/sub/view.php",
+		"/E/xampp/htdocs/www/laravel-master/resources/views/layout/sub/layout.php",
+		"/E/xampp/htdocs/www/laravel-master/resources/views/Views/marquee.blade.php",
+		"/E/xampp/htdocs/www/laravel-master/.env.example",
+		"/E/xampp/htdocs/www/laravel-master/app/Providers/AppServiceProvider.php",
+		"/E/xampp/htdocs/www/laravel-master/resources/views/Views/layout.blade.php",
+		"/E/xampp/htdocs/www/laravel-master/composer.json",
+		"/E/xampp/htdocs/www/laravel-master/config/database.php",
+		"/E/xampp/htdocs/www/laravel-master/resources/views/thongtin.php",
+		"/C/wamp64/www/ThucHanh/lab3/Entities/product.class.php",
+		"/C/wamp64/www/ThucHanh/lab3/Config/config.ini",
+		"/C/wamp64/www/ThucHanh/lab3/Config/db.class.php",
+		"/C/wamp64/www/ThucHanh/lab3/list_product.php",
+		"/C/wamp64/www/ThucHanh/lab3/add_product.php",
+		"/C/wamp64/www/ThucHanh/lab3/index.php",
+		"/C/Users/black/Desktop/lab3/config/db.class.php",
+		"/E/xampp/htdocs/www/laravel-master/resources/views/welcome.blade.php",
+		"/E/xampp/htdocs/www/laravel-master/app/User.php",
+		"/E/xampp/htdocs/www/laravel-master/index.php",
+		"/C/wamp64/www/ThucHanh/Lab2/index.html",
+		"/C/wamp64/www/ThucHanh/Lab2/userclass.php",
+		"/C/Users/black/Desktop/PHP/shop1/model/database.php",
+		"/C/Users/black/Desktop/index.htm;",
+		"/C/Users/black/Desktop/de1/de1.html",
+		"/C/Users/black/Desktop/de1/abc.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"danger",
+			"funtione",
+			"public"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
